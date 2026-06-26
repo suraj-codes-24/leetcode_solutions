@@ -1,0 +1,33 @@
+{
+  "github": {
+    "repository_path": ".",
+    "branch": "main"
+  },
+  "polling": {
+    "interval_seconds": 300,
+    "max_retries_on_failure": 5
+  },
+  "languages": {
+    "cpp": "cpp",
+    "python3": "py",
+    "python": "py",
+    "java": "java",
+    "javascript": "js",
+    "golang": "go",
+    "kotlin": "kt",
+    "csharp": "cs",
+    "mysql": "sql",
+    "mssql": "sql",
+    "oraclesql": "sql",
+    "c": "c",
+    "typescript": "ts",
+    "php": "php",
+    "swift": "swift",
+    "ruby": "rb",
+    "rust": "rs",
+    "scala": "scala",
+    "erlang": "erl",
+    "elixir": "ex",
+    "dart": "dart"
+  }
+}
