@@ -4,9 +4,9 @@
 - **Difficulty:** Medium
 - **Tags:** Array, Hash Table, Divide and Conquer, Segment Tree, Merge Sort, Counting, Prefix Sum
 - **Language:** C++
-- **Date Solved:** 2026-06-25 11:16:42
-- **Runtime:** 41 ms (Beats 66.02%)
-- **Memory:** 39.4 MB (Beats 96.10%)
+- **Date Solved:** 2026-06-25 18:53:50
+- **Runtime:** 40 ms (Beats 66.88%)
+- **Memory:** 39.5 MB (Beats 75.32%)
 
 ## Problem Link
 [Official LeetCode URL](https://leetcode.com/problems/count-subarrays-with-majority-element-i/)
@@ -19,3 +19,4 @@ Submission generated automatically by LeetSync.
 
 ## Submission History
 - **v1**: C++ on 2026-06-25 11:16:42 (Runtime: 41 ms, Memory: 39.4 MB)
+- **v2**: C++ on 2026-06-25 18:53:50 (Runtime: 40 ms, Memory: 39.5 MB)
