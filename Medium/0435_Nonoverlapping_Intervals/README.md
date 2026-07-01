@@ -4,9 +4,9 @@
 - **Difficulty:** Medium
 - **Tags:** Array, Dynamic Programming, Greedy, Sorting
 - **Language:** C++
-- **Date Solved:** 2026-07-01 14:14:57
-- **Runtime:** 43 ms (Beats 66.51%)
-- **Memory:** 93.8 MB (Beats 90.42%)
+- **Date Solved:** 2026-07-01 14:17:40
+- **Runtime:** 36 ms (Beats 92.12%)
+- **Memory:** 93.9 MB (Beats 68.61%)
 
 ## Problem Link
 [Official LeetCode URL](https://leetcode.com/problems/non-overlapping-intervals/)
@@ -20,3 +20,4 @@ Submission generated automatically by LeetSync.
 ## Submission History
 - **v1**: C++ on 2026-07-01 14:05:59 (Runtime: 59 ms, Memory: 94 MB)
 - **v2**: C++ on 2026-07-01 14:14:57 (Runtime: 43 ms, Memory: 93.8 MB)
+- **v3**: C++ on 2026-07-01 14:17:40 (Runtime: 36 ms, Memory: 93.9 MB)
