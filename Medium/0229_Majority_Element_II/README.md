@@ -4,9 +4,9 @@
 - **Difficulty:** Medium
 - **Tags:** Array, Hash Table, Sorting, Counting
 - **Language:** C++
-- **Date Solved:** 2026-07-01 22:49:38
-- **Runtime:** 7 ms (Beats 40.34%)
-- **Memory:** 26.4 MB (Beats 15.11%)
+- **Date Solved:** 2026-07-01 23:10:10
+- **Runtime:** 0 ms (Beats 100.00%)
+- **Memory:** 23.7 MB (Beats 44.20%)
 
 ## Problem Link
 [Official LeetCode URL](https://leetcode.com/problems/majority-element-ii/)
@@ -19,3 +19,4 @@ Submission generated automatically by LeetSync.
 
 ## Submission History
 - **v1**: C++ on 2026-07-01 22:49:38 (Runtime: 7 ms, Memory: 26.4 MB)
+- **v2**: C++ on 2026-07-01 23:10:10 (Runtime: 0 ms, Memory: 23.7 MB)
