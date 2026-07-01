@@ -4,9 +4,9 @@
 - **Difficulty:** Easy
 - **Tags:** String
 - **Language:** C++
-- **Date Solved:** 2026-07-02 01:57:13
+- **Date Solved:** 2026-07-02 01:58:33
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 8.8 MB (Beats 92.53%)
+- **Memory:** 8.9 MB (Beats 34.32%)
 
 ## Problem Link
 [Official LeetCode URL](https://leetcode.com/problems/length-of-last-word/)
@@ -19,3 +19,4 @@ Submission generated automatically by LeetSync.
 
 ## Submission History
 - **v1**: C++ on 2026-07-02 01:57:13 (Runtime: 0 ms, Memory: 8.8 MB)
+- **v2**: C++ on 2026-07-02 01:58:33 (Runtime: 0 ms, Memory: 8.9 MB)
