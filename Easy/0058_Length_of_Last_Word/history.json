@@ -12,5 +12,12 @@
     "runtime": "0 ms",
     "memory": "8.9 MB",
     "submission_id": "2052812242"
+  },
+  "v3": {
+    "lang": "C++",
+    "timestamp": 1782937892,
+    "runtime": "0 ms",
+    "memory": "9 MB",
+    "submission_id": "2052813750"
   }
 }
