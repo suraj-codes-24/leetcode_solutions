@@ -4,8 +4,8 @@
 - **Difficulty:** Medium
 - **Tags:** Array, Hash Table, Greedy, Sorting
 - **Language:** C++
-- **Date Solved:** 2026-07-02 00:51:07
-- **Runtime:** 274 ms (Beats 13.35%)
+- **Date Solved:** 2026-07-02 00:51:18
+- **Runtime:** 269 ms (Beats 13.74%)
 - **Memory:** 141.1 MB (Beats 6.25%)
 
 ## Problem Link
@@ -19,3 +19,4 @@ Submission generated automatically by LeetSync.
 
 ## Submission History
 - **v1**: C++ on 2026-07-02 00:51:07 (Runtime: 274 ms, Memory: 141.1 MB)
+- **v2**: C++ on 2026-07-02 00:51:18 (Runtime: 269 ms, Memory: 141.1 MB)
