@@ -5,9 +5,6 @@ public:
         sort(intervals.rbegin(), intervals.rend(), [](const auto& a, const auto& b) {
             return a[1] < b[1];
         });
-        for(auto x:intervals){
-            cout<<x[0]<<x[1];
-        }
             int c=intervals[0][0];
             int d=intervals[0][1];
             int count=0;
