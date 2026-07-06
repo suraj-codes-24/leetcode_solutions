@@ -11,7 +11,6 @@ public:
         for(int i=1;i<n;i++){
             int a=intervals[i][0];
             int b=intervals[i][1];
-
             if(c<=a&&b<=d){
                 count++;
                 continue;
