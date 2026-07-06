@@ -52,6 +52,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Array
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
@@ -61,9 +62,22 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Matrix
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
