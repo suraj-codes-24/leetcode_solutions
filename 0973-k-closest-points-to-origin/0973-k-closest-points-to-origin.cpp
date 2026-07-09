@@ -6,9 +6,11 @@ public:
         priority_queue<tuple<long long,int,int>>pq;
 
         for(auto p:points){
-            long long dist=1LL*(p[0]*p[0]+p[1]*p[1]);
+            long long x = p[0];
+            long long y = p[1];
+            long long dist = x * x + y * y;
             pq.push({dist,p[0],p[1]});
-            while(pq.size()>k){
+            if (pq.size() > k) {
                 pq.pop();
             }
         }
