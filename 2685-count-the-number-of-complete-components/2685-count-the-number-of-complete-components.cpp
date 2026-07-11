@@ -1,12 +1,12 @@
 class Solution {
 public:
-    void dfs(int node,vector<vector<int>>&adj,vector<bool>&visited, vector<int> &indegree,int &v,int &e){
+    void dfs(int node,vector<vector<int>>&adj,vector<bool>&visited, vector<int> &indegree,int &v,int &tdeg){
         visited[node]=true;
         v++;
-        e+=indegree[node];
+        tdeg+=indegree[node];
         for(auto neb:adj[node]){
             if(!visited[neb]){
-                dfs(neb,adj,visited,indegree,v,e);
+                dfs(neb,adj,visited,indegree,v,tdeg);
             }
         }  
     }
@@ -25,9 +25,9 @@ public:
 
         for(int i=0;i<n;i++){
             if(!visited[i]){
-                int v=0,e=0;
-                dfs(i,adj,visited,indegree,v,e);
-                 if(e==v*(v-1))
+                int v=0,tdeg=0;
+                dfs(i,adj,visited,indegree,v,tdeg);
+                 if(tdeg==v*(v-1))
                 size++;
                 
             }
