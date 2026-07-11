@@ -7,36 +7,30 @@ public:
             mp[ch]++;
         }
         for(auto [ch,f]:mp){
+            if(f>(s.size()+1)/2) 
+            return "";
             pq.push({f,ch});
         }
         string ans="";
-        queue<pair<int,char>>q;
-        while(!pq.empty()||!q.empty()){
-
-           if (pq.empty() && !q.empty()){
-            if(ans.back()==q.front().second){
-                return "";
+       while(pq.size()>=2){
+            auto[f1,c1]=pq.top();
+            pq.pop();
+            auto[f2,c2]=pq.top();
+            pq.pop();
+            if(f1-1>0){
+                pq.push({f1-1,c1});
             }
-           }
-             if(!q.empty()&&ans.back()!=q.front().second){
-                pq.push(q.front());
-                q.pop();
+            if(f2-1>0){
+                pq.push({f2-1,c2});
             }
-            if (!pq.empty()) {
-                int f = pq.top().first;
-                int c=  pq.top().second;
-                ans+=c;
-                pq.pop();
-                
-                if (f - 1 > 0) {
-                    q.push({f - 1, c}); 
-                }
-            }
-            
-            
-        }
+            ans+=c1;
+            ans+=c2;
+       }
+       if(!pq.empty()){
+        ans+=pq.top().second;
+        pq.pop();
+       }
         return ans;
-        
-        
+          
     }
 };
