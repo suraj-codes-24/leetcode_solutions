@@ -2,7 +2,6 @@ class Solution {
 public:
 const int MOD=1e9+7;
     int rangeSum(vector<int>& nums, int n, int left, int right) {
-        priority_queue<long long>pq;
         vector<long long>vec;
         for(int i=0;i<n;i++){
             long long sum=0;
