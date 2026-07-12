@@ -1,25 +1,40 @@
 class Solution {
 public:
-const int MOD=1e9+7;
+    static const int MOD = 1e9 + 7;
+
     int rangeSum(vector<int>& nums, int n, int left, int right) {
-        priority_queue<pair<long long,int>,vector<pair<long long,int>>,greater<>>pq;
-        for(int i=0;i<n;i++){
-            pq.push({nums[i],i});
+
+        // {current subarray sum, end index}
+        priority_queue<
+            pair<long long, int>,
+            vector<pair<long long, int>>,
+            greater<>
+        > pq;
+
+        // Initially insert all subarrays of length 1
+        for (int i = 0; i < n; i++) {
+            pq.push({nums[i], i});
         }
-        int ans=0;
-        while(1){
-            auto[s,i]=pq.top();
+
+        long long ans = 0;
+
+        // Extract the smallest subarray sums one by one
+        for (int k = 1; k <= right; k++) {
+
+            auto [sum, end] = pq.top();
             pq.pop();
-             if(i+1<n)
-            pq.push({s+nums[i+1],i+1});
-            if(left<=1){
-                ans=(ans+s)%MOD;
+
+            // Add to answer only if it lies in [left, right]
+            if (k >= left) {
+                ans = (ans + sum) % MOD;
             }
-            left--;
-            right--;
-            if(right==0)return ans;
+
+            // Extend the current subarray by one element
+            if (end + 1 < n) {
+                pq.push({sum + nums[end + 1], end + 1});
+            }
         }
-       
-        return 0;
+
+        return ans;
     }
 };
