@@ -274,4 +274,8 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
