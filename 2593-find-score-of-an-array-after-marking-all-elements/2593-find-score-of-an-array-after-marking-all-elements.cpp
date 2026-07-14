@@ -11,11 +11,15 @@ public:
         while(!pq.empty()){
             auto[s,i]=pq.top();
             pq.pop();
-            if(!visited[i]){
-                sum+=s;
-                visited[i];
-                if(i+1<nums.size())visited[i+1]=true;
-                if(i-1>=0)visited[i-1]=true;
+           if (!visited[i]) {
+                sum += s;
+                visited[i] = true;
+
+                if (i + 1 < nums.size())
+                    visited[i + 1] = true;
+
+                if (i - 1 >= 0)
+                    visited[i - 1] = true;
             }
         }
         return sum;
