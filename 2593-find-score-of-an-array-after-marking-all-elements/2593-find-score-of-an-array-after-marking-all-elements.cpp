@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long findScore(vector<int>& nums) {
-        unordered_set<int>set;
+        vector<bool>visited(nums.size(),false);
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>>pq;
 
         for(int i=0;i<nums.size();i++){
@@ -11,11 +11,11 @@ public:
         while(!pq.empty()){
             auto[s,i]=pq.top();
             pq.pop();
-            if(!set.count(i)){
+            if(!visited[i]){
                 sum+=s;
-                set.insert(i);
-                if(i+1<nums.size())set.insert(i+1);
-                if(i-1>=0)set.insert(i-1);
+                visited[i];
+                if(i+1<nums.size())visited[i+1]=true;
+                if(i-1>=0)visited[i-1]=true;
             }
         }
         return sum;
