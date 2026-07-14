@@ -131,6 +131,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0537-complex-number-multiplication](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0537-complex-number-multiplication) |
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1405-longest-happy-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -162,6 +163,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0786-k-th-smallest-prime-fraction](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -216,6 +218,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0502-ipo](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1405-longest-happy-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2542-maximum-subsequence-score) |
