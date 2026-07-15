@@ -31,33 +31,37 @@ static const int MOD=1e9+7;
             maxgcd=max(maxgcd,nums[i]);
         }
 
-        vector<vector<vector<int>>>dp(size+1,vector<vector<int>>(maxgcd+1,vector<int>(maxgcd+1,0)));
+        vector<vector<int>>prev(maxgcd+1,vector<int>(maxgcd+1,0));
 
         for(int i=0;i<maxgcd+1;i++){
             for(int j=0;j<maxgcd+1;j++){
                 bool notempty=i!=0&&j!=0;
                 bool equal=i==j;
                 if(notempty&&equal){
-                    dp[size][i][j]=1;
+                    prev[i][j]=1;
                 }
             }
         }
         for(int i=size-1;i>=0;i--){
+             vector<vector<int>>curr(maxgcd+1,vector<int>(maxgcd+1,0));
             for(int j=0;j<maxgcd+1;j++){
                 for(int k=0;k<maxgcd+1;k++){
-                    int skip=dp[i+1][j][k];
-                    int take1=dp[i+1][gcd(j,nums[i])][k];
-                    int take2=dp[i+1][j][gcd(k,nums[i])];
+                    int skip=prev[j][k];
+                    int take1=prev[gcd(j,nums[i])][k];
+                    int take2=prev[j][gcd(k,nums[i])];
 
                     long long ans=skip;
                     ans=(ans+take1)%MOD;
                     ans=(ans+take2)%MOD;
-                    dp[i][j][k]=ans;
+                    curr[j][k]=ans;
 
                 }
+               
+
             }
+             prev=curr;
         }
-        return dp[0][0][0];
+        return prev[0][0];
 
         
     }
