@@ -5,30 +5,16 @@ public:
         priority_queue<int,vector<int>,greater<>>pq;
         for(int i=1;i<n;i++){
            int currdiff=heights[i]-heights[i-1];
-           if(currdiff<=0){
-            continue;
-           }
-           if(ladders>0){
+           if(currdiff>0){
             pq.push(currdiff);
-            ladders--;
            }
-           else if(!pq.empty()){
-                int prevmin=pq.top();
-                if(currdiff<=prevmin&&currdiff<=bricks){
-                    bricks-=currdiff;
-                }
-                else if(bricks>=prevmin){
-                        bricks-=prevmin;
-                        pq.pop();
-                        pq.push({currdiff});  
-                }
-                else
-                return i-1;
-           }
-           else if(currdiff<=bricks){
-            bricks-=currdiff;
-           }
-           else{
+           if(pq.size()>ladders){
+            int diff=pq.top();
+            pq.pop();
+            if(diff<=bricks){
+                bricks-=diff;
+            }
+            else
             return i-1;
            }
         }
