@@ -52,6 +52,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -149,6 +150,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -195,6 +197,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0447-number-of-boomerangs](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0537-complex-number-multiplication](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0537-complex-number-multiplication) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
