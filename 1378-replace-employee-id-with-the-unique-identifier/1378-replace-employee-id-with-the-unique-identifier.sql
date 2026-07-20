@@ -2,6 +2,6 @@
 select
 e_id.unique_id,
 e.name
-from  employees as e
-left join employeeuni as e_id
-on e.id=e_id.id
+from employeeuni as e_id 
+right join employees as e
+on e_id.id=e.id
