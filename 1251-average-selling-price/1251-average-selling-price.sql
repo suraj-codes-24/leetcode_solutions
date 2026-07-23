@@ -5,7 +5,7 @@ FROM
 (
     SELECT
         p.product_id,
-        ifnull (SUM(p.price * u.units),0) AS num
+        SUM(p.price * u.units) AS num
     FROM prices p
     LEFT JOIN unitssold u
     ON p.product_id = u.product_id
@@ -16,7 +16,7 @@ JOIN
 (
     SELECT
         p.product_id,
-        ifnull (SUM(u.units),0) AS deno
+        SUM(u.units) AS deno
     FROM prices p
     LEFT JOIN unitssold u
     ON p.product_id = u.product_id
