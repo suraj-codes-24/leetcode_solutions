@@ -1,8 +1,17 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        string s=to_string(n);
-        sort(s.rbegin(),s.rend());
-        return( s[0]-'0')*(s[1]-'0');
+        int firstmax=-1;
+        int secondmax=-1;
+        while(n){
+            int digit=n%10;
+            n/=10;
+            if(digit>=firstmax){
+                secondmax=firstmax;
+                firstmax=digit; 
+            }
+            else if(digit>secondmax) secondmax=digit;
+        }
+        return secondmax*firstmax;
     }
 };
