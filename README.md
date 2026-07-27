@@ -222,6 +222,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2928-distribute-candies-among-children-i) |
+| [2929-distribute-candies-among-children-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2929-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -358,6 +359,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [1291-sequential-digits](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1291-sequential-digits) |
 | [2928-distribute-candies-among-children-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2928-distribute-candies-among-children-i) |
+| [2929-distribute-candies-among-children-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2929-distribute-candies-among-children-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -371,6 +373,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2928-distribute-candies-among-children-i) |
+| [2929-distribute-candies-among-children-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2929-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
