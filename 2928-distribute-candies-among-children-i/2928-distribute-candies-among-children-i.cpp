@@ -6,6 +6,7 @@ public:
             for(int j=0;j<=l;j++){
                 for(int k=0;k<=l;k++){
                     if(i+k+j==n)c++;
+                    if(i+j+k>n)break;
                 }
             }
         }
