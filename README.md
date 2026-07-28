@@ -402,6 +402,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1683-invalid-tweets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Segment Tree
 |  |
 | ------- |
