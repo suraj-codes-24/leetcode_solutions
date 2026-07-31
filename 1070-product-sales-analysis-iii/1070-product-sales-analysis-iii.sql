@@ -1,16 +1,16 @@
-# Write your MySQL query statement below
-select
-a.product_id ,
-a.year as first_year ,
-a.quantity,
-a.price
-from
-(select
-product_id ,
-min(year) as first_year ,
-quantity,
-price
-from sales
-group by product_id)as t
-join sales as a
-on a.year=t.first_year and a.product_id=t.product_id;
+SELECT
+    s.product_id,
+    s.year AS first_year,
+    s.quantity,
+    s.price
+FROM
+(
+    SELECT
+        product_id,
+        MIN(year) AS first_year
+    FROM Sales
+    GROUP BY product_id
+) AS t
+JOIN Sales AS s
+ON s.product_id = t.product_id
+AND s.year = t.first_year;
