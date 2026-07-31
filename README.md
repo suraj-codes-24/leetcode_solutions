@@ -414,6 +414,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0620-not-boring-movies](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1174-immediate-food-delivery-ii) |
