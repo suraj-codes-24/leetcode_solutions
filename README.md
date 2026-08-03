@@ -74,6 +74,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1331-rank-transform-of-an-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1642-furthest-building-you-can-reach](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1642-furthest-building-you-can-reach) |
@@ -100,6 +101,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -236,6 +238,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [2929-distribute-candies-among-children-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2929-distribute-candies-among-children-ii) |
@@ -468,12 +471,15 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
