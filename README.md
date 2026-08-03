@@ -468,4 +468,12 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
