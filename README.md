@@ -421,6 +421,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0175-combine-two-tables](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
