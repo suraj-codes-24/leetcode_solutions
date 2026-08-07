@@ -463,6 +463,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1978-employees-whose-manager-left-the-company](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3220-odd-and-even-transactions) |
+| [3570-find-books-with-no-available-copies](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Segment Tree
 |  |
 | ------- |
