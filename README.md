@@ -423,6 +423,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0178-rank-scores](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0182-duplicate-emails) |
+| [0183-customers-who-never-order](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
