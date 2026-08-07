@@ -428,6 +428,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0185-department-top-three-salaries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
