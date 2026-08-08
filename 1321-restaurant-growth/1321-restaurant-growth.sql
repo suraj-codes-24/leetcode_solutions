@@ -15,3 +15,4 @@ sum(amount) as sum_per_day
 from customer
 group by visited_on) as x) as y
 where y.rw>=7
+order by y.visited_on
