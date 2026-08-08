@@ -1,18 +1,38 @@
-# Write your MySQL query statement below
-select
-y.visited_on,
-y.amount,
-y.average_amount
-from
-(select
-x.visited_on,
-sum(x.sum_per_day) over( ROWS BETWEEN 6 PRECEDING AND CURRENT ROW) as amount,
-round(avg(x.sum_per_day) over(  ROWS BETWEEN 6 PRECEDING AND CURRENT ROW),2) as average_amount,
-row_number() over() as rw
-from(select
-visited_on,
-sum(amount) as sum_per_day
-from customer
-group by visited_on) as x) as y
-where y.rw>=7
-order by y.visited_on
+SELECT
+    y.visited_on,
+    y.amount,
+    y.average_amount
+FROM
+(
+    SELECT
+        x.visited_on,
+
+        SUM(x.sum_per_day) OVER(
+            ORDER BY x.visited_on
+            ROWS BETWEEN 6 PRECEDING AND CURRENT ROW
+        ) AS amount,
+
+        ROUND(
+            AVG(x.sum_per_day) OVER(
+                ORDER BY x.visited_on
+                ROWS BETWEEN 6 PRECEDING AND CURRENT ROW
+            ),
+            2
+        ) AS average_amount,
+
+        ROW_NUMBER() OVER(
+            ORDER BY x.visited_on
+        ) AS rw
+
+    FROM
+    (
+        SELECT
+            visited_on,
+            SUM(amount) AS sum_per_day
+        FROM customer
+        GROUP BY visited_on
+    ) x
+) y
+
+WHERE y.rw >= 7
+ORDER BY y.visited_on;
