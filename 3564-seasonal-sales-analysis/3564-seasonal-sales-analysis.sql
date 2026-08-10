@@ -1,108 +1,95 @@
 # Write your MySQL query statement below
-(select
-    'Fall' as season,
-    y.category,
-    y.total_quantity,
-    y.total_revenue
-    from
-    (select
-        p.category,
-        sum(x.quantity) as total_quantity,
-        sum(x.price*x.quantity) as total_revenue
-        from
-            (select
-            s.product_id,
-            s.quantity,
-            s.price
-            from sales as s
-            where month(s.sale_date)=9 or month(s.sale_date)=10 or month(sale_date)=11
-            )as x
-        join products as p
-        on x.product_id =p.product_id 
-        
-        group by p.category) as y
-order by y.total_quantity   desc, y.total_revenue desc
-limit 1)
 
-union
+(
+    SELECT
+        'Fall' AS season,
+        y.category,
+        y.total_quantity,
+        y.total_revenue
+    FROM (
+        SELECT
+            p.category,
+            SUM(s.quantity) AS total_quantity,
+            SUM(s.price * s.quantity) AS total_revenue
+        FROM sales AS s
+        JOIN products AS p
+            ON s.product_id = p.product_id
+        WHERE MONTH(s.sale_date) IN (9, 10, 11)
+        GROUP BY p.category
+    ) AS y
+    ORDER BY y.total_quantity DESC,
+             y.total_revenue DESC
+    LIMIT 1
+)
 
-(select
-    'Spring' as season,
-    y.category,
-    y.total_quantity,
-    y.total_revenue
-    from
-    (select
-        p.category,
-        sum(x.quantity) as total_quantity,
-        sum(x.price*x.quantity) as total_revenue
-        from
-            (select
-            s.product_id,
-            s.quantity,
-            s.price
-            from sales as s
-            where month(s.sale_date)=3 or month(s.sale_date)=4 or month(sale_date)=5
-            )as x
-        join products as p
-        on x.product_id =p.product_id 
-        
-        group by p.category) as y
-order by y.total_quantity desc , y.total_revenue desc
-limit 1)
+UNION ALL
 
-union 
+(
+    SELECT
+        'Spring' AS season,
+        y.category,
+        y.total_quantity,
+        y.total_revenue
+    FROM (
+        SELECT
+            p.category,
+            SUM(s.quantity) AS total_quantity,
+            SUM(s.price * s.quantity) AS total_revenue
+        FROM sales AS s
+        JOIN products AS p
+            ON s.product_id = p.product_id
+        WHERE MONTH(s.sale_date) IN (3, 4, 5)
+        GROUP BY p.category
+    ) AS y
+    ORDER BY y.total_quantity DESC,
+             y.total_revenue DESC
+    LIMIT 1
+)
 
-(select
-    'Summer' as season,
-    y.category,
-    y.total_quantity,
-    y.total_revenue
-    from
-    (select
-        p.category,
-        sum(x.quantity) as total_quantity,
-        sum(x.price*x.quantity) as total_revenue
-        from
-            (select
-            s.product_id,
-            s.quantity,
-            s.price
-            from sales as s
-            where month(s.sale_date)=6 or month(s.sale_date)=7 or month(sale_date)=8
-            )as x
-        join products as p
-        on x.product_id =p.product_id 
-        
-        group by p.category) as y
-order by y.total_quantity  desc , y.total_revenue desc
-limit 1)
+UNION ALL
 
-union
+(
+    SELECT
+        'Summer' AS season,
+        y.category,
+        y.total_quantity,
+        y.total_revenue
+    FROM (
+        SELECT
+            p.category,
+            SUM(s.quantity) AS total_quantity,
+            SUM(s.price * s.quantity) AS total_revenue
+        FROM sales AS s
+        JOIN products AS p
+            ON s.product_id = p.product_id
+        WHERE MONTH(s.sale_date) IN (6, 7, 8)
+        GROUP BY p.category
+    ) AS y
+    ORDER BY y.total_quantity DESC,
+             y.total_revenue DESC
+    LIMIT 1
+)
 
+UNION ALL
 
-(select
-    'Winter' as season,
-    y.category,
-    y.total_quantity,
-    y.total_revenue
-    from
-    (select
-        p.category,
-        sum(x.quantity) as total_quantity,
-        sum(x.price*x.quantity) as total_revenue
-        from
-            (select
-            s.product_id,
-            s.quantity,
-            s.price
-            from sales as s
-            where month(s.sale_date)=12 or month(s.sale_date)=1 or month(sale_date)=2
-            )as x
-        join products as p
-        on x.product_id =p.product_id 
-        
-        group by p.category) as y
-order by y.total_quantity  desc , y.total_revenue desc
-limit 1)
-
+(
+    SELECT
+        'Winter' AS season,
+        y.category,
+        y.total_quantity,
+        y.total_revenue
+    FROM (
+        SELECT
+            p.category,
+            SUM(s.quantity) AS total_quantity,
+            SUM(s.price * s.quantity) AS total_revenue
+        FROM sales AS s
+        JOIN products AS p
+            ON s.product_id = p.product_id
+        WHERE MONTH(s.sale_date) IN (12, 1, 2)
+        GROUP BY p.category
+    ) AS y
+    ORDER BY y.total_quantity DESC,
+             y.total_revenue DESC
+    LIMIT 1
+);
