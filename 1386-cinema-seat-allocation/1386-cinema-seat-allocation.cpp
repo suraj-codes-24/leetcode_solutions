@@ -4,69 +4,51 @@ public:
 
         map<int, vector<int>> matrix;
 
-        unordered_set<int> g1 = {2, 3, 4, 5};
-        unordered_set<int> g2 = {4, 5, 6, 7};
-        unordered_set<int> g3 = {6, 7, 8, 9};
-
-        long long total = n * 2;
-
         // Store reserved seats row-wise
-        for (auto vec : reservedSeats) {
-            int r = vec[0];
-            int c = vec[1];
+        for (auto &seat : reservedSeats) {
+            int row = seat[0];
+            int col = seat[1];
 
-            matrix[r].push_back(c);
+            matrix[row].push_back(col);
         }
 
-        // Only iterate over rows having reserved seats
-        for (auto row : matrix) {
+        long long total = 2LL * n;
 
-            vector<int>& seats = row.second;
+        // Process only rows having reserved seats
+        for (auto &row : matrix) {
 
-            bool f1 = true;
-            bool f2 = true;
-            bool f3 = true;
+            bool f1 = true;  // seats 2,3,4,5
+            bool f2 = true;  // seats 4,5,6,7
+            bool f3 = true;  // seats 6,7,8,9
 
-            // Group 1: seats 2,3,4,5
-            for (auto c : seats) {
-                if (g1.count(c)) {
+            for (int col : row.second) {
+
+                if (col >= 2 && col <= 5)
                     f1 = false;
-                    break;
-                }
-            }
 
-            // Group 3: seats 6,7,8,9
-            for (auto c : seats) {
-                if (g3.count(c)) {
-                    f3 = false;
-                    break;
-                }
-            }
-
-            // Group 2: seats 4,5,6,7
-            for (auto c : seats) {
-                if (g2.count(c)) {
+                if (col >= 4 && col <= 7)
                     f2 = false;
-                    break;
-                }
+
+                if (col >= 6 && col <= 9)
+                    f3 = false;
             }
 
-            // Both side groups are available
+            // Both left and right groups are available
             if (f1 && f3) {
                 continue;
             }
 
-            // One side group is available
+            // Either left or right group is available
             else if (f1 || f3) {
                 total--;
             }
 
-            // Neither side available, but middle group available
-            else if (!f1 && !f3 && f2) {
+            // Only middle group is available
+            else if (f2) {
                 total--;
             }
 
-            // No group available
+            // No group is available
             else {
                 total -= 2;
             }
