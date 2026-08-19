@@ -1,16 +1,31 @@
-# Write your MySQL query statement below
-select distinct
-x.customer_id 
-from
-(select
-customer_id,
-transaction_date ,
-datediff(
-    (max(transaction_date) over (partition by customer_id) ),
-    (min(transaction_date) over (partition by customer_id))
-) as days,
-count(*) over(partition by customer_id) as total_trnx,
-sum(case when transaction_type ='refund' then 1 else 0 end) over(partition by customer_id) as count_refund_trnx
-from customer_transactions ) as x
-where x.days >=30 and (100*x.count_refund_trnx <20*x.total_trnx ) and x.total_trnx>=3
-order by x.customer_id
+SELECT DISTINCT
+    x.customer_id
+FROM (
+    SELECT
+        customer_id,
+        transaction_date,
+
+        DATEDIFF(
+            MAX(transaction_date) OVER (PARTITION BY customer_id),
+            MIN(transaction_date) OVER (PARTITION BY customer_id)
+        ) AS days,
+
+        COUNT(*) OVER (
+            PARTITION BY customer_id
+        ) AS total_trnx,
+
+        SUM(
+            CASE
+                WHEN transaction_type = 'refund' THEN 1
+                ELSE 0
+            END
+        ) OVER (
+            PARTITION BY customer_id
+        ) AS count_refund_trnx
+
+    FROM customer_transactions
+) AS x
+WHERE x.days >= 30
+  AND 100 * x.count_refund_trnx < 20 * x.total_trnx
+  AND x.total_trnx >= 3
+ORDER BY x.customer_id;
