@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
 
-        map<int, vector<int>> matrix;
+        unordered_map<int, vector<int>> matrix;
 
         // Store reserved seats row-wise
         for (auto &seat : reservedSeats) {
