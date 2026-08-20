@@ -96,6 +96,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -427,6 +428,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [2462-total-cost-to-hire-k-workers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
