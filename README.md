@@ -87,6 +87,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1642-furthest-building-you-can-reach](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1834-single-threaded-cpu](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1834-single-threaded-cpu) |
+| [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -120,6 +121,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -275,6 +277,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -404,6 +407,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
@@ -577,6 +581,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -586,6 +591,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -594,6 +600,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
