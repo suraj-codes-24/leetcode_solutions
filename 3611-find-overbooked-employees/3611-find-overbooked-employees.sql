@@ -1,18 +1,24 @@
-# Write your MySQL query statement below
-select
-t.employee_id,
-e.employee_name,
-e.department,
-count(*) as meeting_heavy_weeks 
-from
-(select
-m.employee_id,
-sum(m.duration_hours) as duration_hours 
-from meetings as m
-group by m.employee_id,yearweek(meeting_date ,1)
-having duration_hours >20 )t
-join employees e
-on t.employee_id=e.employee_id
-group by t.employee_id
-having count(*)>=2
-order by meeting_heavy_weeks  desc,e.employee_name
+SELECT
+    t.employee_id,
+    e.employee_name,
+    e.department,
+    COUNT(*) AS meeting_heavy_weeks
+FROM (
+    SELECT
+        m.employee_id,
+        YEARWEEK(m.meeting_date, 1) AS week,
+        SUM(m.duration_hours) AS duration_hours
+    FROM meetings AS m
+    GROUP BY m.employee_id, YEARWEEK(m.meeting_date, 1)
+    HAVING SUM(m.duration_hours) > 20
+) t
+JOIN employees e
+    ON t.employee_id = e.employee_id
+GROUP BY
+    t.employee_id,
+    e.employee_name,
+    e.department
+HAVING COUNT(*) >= 2
+ORDER BY
+    meeting_heavy_weeks DESC,
+    e.employee_name;
