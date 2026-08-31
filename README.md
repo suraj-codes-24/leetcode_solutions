@@ -53,6 +53,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -405,6 +406,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
