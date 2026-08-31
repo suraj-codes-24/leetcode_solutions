@@ -21,26 +21,7 @@ public:
         vector<vector<int>>all;
         vector<int>perm;
         vector<bool>avail(n,true);
-        queue<pair<vector<int>,vector<bool>>>q;
-        q.push({perm,avail});
-        while(!q.empty()){
-            auto[perm,avail]=q.front();
-            q.pop();
-            if(perm.size()==nums.size()){
-                all.push_back(perm);
-            }
-            else{
-                for(int i=0;i<nums.size();i++){
-                    if(avail[i]){
-                        perm.push_back(nums[i]);
-                        avail[i]=false;
-                        q.push({perm,avail});
-                        avail[i]=true;
-                        perm.pop_back();
-                    }
-                }
-            }
-        }
+        dfs(nums,avail,perm,all);
         return all;
         
     }
