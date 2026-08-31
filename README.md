@@ -63,6 +63,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0480-sliding-window-median](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0502-ipo) |
+| [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0605-can-place-flowers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -119,6 +120,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -408,6 +410,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
+| [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
@@ -445,6 +448,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [1386-cinema-seat-allocation](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -636,4 +640,8 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
