@@ -586,6 +586,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0147-insertion-sort-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
