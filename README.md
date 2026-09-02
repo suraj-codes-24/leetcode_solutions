@@ -55,6 +55,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -418,6 +419,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -457,6 +459,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0078-subsets) |
 | [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [1386-cinema-seat-allocation](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
