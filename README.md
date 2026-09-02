@@ -53,6 +53,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0078-subsets) |
@@ -418,6 +419,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0077-combinations) |
