@@ -97,6 +97,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1834-single-threaded-cpu](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -153,6 +154,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1260-shift-2d-grid](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
@@ -200,6 +202,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
