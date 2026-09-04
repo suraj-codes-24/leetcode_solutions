@@ -227,6 +227,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2390-removing-stars-from-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -499,6 +500,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0537-complex-number-multiplication](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0537-complex-number-multiplication) |
 | [1260-shift-2d-grid](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -509,6 +511,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Enumeration
 |  |
