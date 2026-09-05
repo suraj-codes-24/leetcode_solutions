@@ -105,6 +105,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [2029-stone-game-ix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2542-maximum-subsequence-score) |
@@ -353,6 +354,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1331-rank-transform-of-an-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
