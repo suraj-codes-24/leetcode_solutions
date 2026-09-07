@@ -310,6 +310,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0447-number-of-boomerangs](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
@@ -656,6 +657,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
