@@ -232,6 +232,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0537-complex-number-multiplication](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0537-complex-number-multiplication) |
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [1079-letter-tile-possibilities](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1405-longest-happy-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1405-longest-happy-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -353,6 +354,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0621-task-scheduler](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [1079-letter-tile-possibilities](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 | [1207-unique-number-of-occurrences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -392,6 +394,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0621-task-scheduler](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [1079-letter-tile-possibilities](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 | [2029-stone-game-ix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -465,6 +468,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0216-combination-sum-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1079-letter-tile-possibilities](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 ## Graph Theory
 |  |
 | ------- |
