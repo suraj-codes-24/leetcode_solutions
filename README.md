@@ -81,6 +81,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1046-last-stone-weight) |
+| [1053-previous-permutation-with-one-swap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1260-shift-2d-grid) |
@@ -417,6 +418,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0605-can-place-flowers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
+| [1053-previous-permutation-with-one-swap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1405-longest-happy-string) |
