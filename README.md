@@ -137,6 +137,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
@@ -230,6 +231,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0443-string-compression) |
@@ -468,6 +470,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
@@ -725,4 +728,8 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
