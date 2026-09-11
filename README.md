@@ -205,6 +205,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0437-path-sum-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
+| [0655-print-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0655-print-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -215,6 +216,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
+| [0655-print-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0655-print-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -441,6 +443,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0437-path-sum-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
+| [0655-print-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0655-print-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -466,6 +469,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0437-path-sum-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
+| [0655-print-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0655-print-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
