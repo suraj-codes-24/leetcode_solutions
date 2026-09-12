@@ -60,6 +60,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0078-subsets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0179-largest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -174,6 +175,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0047-permutations-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0147-insertion-sort-list) |
+| [0179-largest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -245,6 +247,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0006-zigzag-conversion](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -425,6 +428,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0179-largest-number) |
 | [0502-ipo](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0621-task-scheduler) |
