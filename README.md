@@ -77,6 +77,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0835-image-overlap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
@@ -164,6 +165,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0835-image-overlap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
