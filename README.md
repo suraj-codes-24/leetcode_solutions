@@ -216,6 +216,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0965-univalued-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -462,6 +463,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0965-univalued-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -493,6 +495,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0965-univalued-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -762,4 +765,8 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
