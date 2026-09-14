@@ -343,6 +343,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0537-complex-number-multiplication](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
@@ -548,6 +549,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
