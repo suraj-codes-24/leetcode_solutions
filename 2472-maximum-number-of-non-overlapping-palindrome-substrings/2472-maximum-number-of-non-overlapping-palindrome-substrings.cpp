@@ -1,39 +1,15 @@
-// (Using Blueprint of Palindrome Strings to conver isPalindrome check to O(1))
+//Approach-4 (Using Blueprint of Palindrome Strings to conver isPalindrome check to O(1))
 //T.C : O(n^2)
 //S.C : O(n^2)
 class Solution {
 public:
-    vector<vector<bool>> isPalindrome;
-
-    //max non-overlapping palindromic pieces (length >= k) from s[i..j]
-    int solve(const string& s, int k, int i, int j, vector<vector<int>>& t) {
-        int n = s.size();
-        if (i >= n || j >= n) 
-            return 0;
-            
-        if (t[i][j] != -1) 
-            return t[i][j];
-
-        if (isPalindrome[i][j]) { //O(1)
-            int growWindow  = solve(s, k, i, j + 1, t);
-            int takeIt      = 1 + solve(s, k, j + 1, j + k, t);
-            int slideWindow = solve(s, k, i + 1, j + 1, t);
-
-            return t[i][j] = max({growWindow, takeIt, slideWindow});
-        }
-
-        int slideWindow = solve(s, k, i + 1, j + 1, t);
-        int growWindow  = solve(s, k, i, j + 1, t);
-
-        return t[i][j] = max(slideWindow, growWindow);
-    }
-
     int maxPalindromes(string s, int k) {
         int n = s.size();
-        if (k == 1)
+        if (k == 1) 
             return n; //each character can be a substring
 
-        isPalindrome.assign(n+1, vector<bool>(n+1));
+        vector<vector<bool>> isPalindrome(n, vector<bool>(n, false));
+
         //Palindromic substring Blueprint
         for(int L = 1; L <= n; L++) {
             for(int i = 0; i+L <= n; i++) {
@@ -49,8 +25,25 @@ public:
             }
         }
 
-        vector<vector<int>> t(n, vector<int>(n, -1));
+        vector<vector<int>> t(n + 1, vector<int>(n + 1, 0));
 
-        return solve(s, k, 0, k - 1, t);
+        for (int i = n - 1; i >= 0; --i) {
+            for (int j = n - 1; j >= i; --j) {
+
+                if (isPalindrome[i][j]) {
+                    int growWindow  = t[i][j + 1];
+                    int takeIt      = 1 + (j + k <= n ? t[j + 1][j + k] : 0);
+                    int slideWindow = t[i + 1][j + 1];
+
+                    t[i][j] = max({growWindow, takeIt, slideWindow});
+                }
+                
+                int slideWindow = t[i + 1][j + 1];
+                int growWindow  = t[i][j + 1];
+                t[i][j] = max({t[i][j], slideWindow, growWindow});
+            }
+        }
+
+        return t[0][k - 1];
     }
 };
