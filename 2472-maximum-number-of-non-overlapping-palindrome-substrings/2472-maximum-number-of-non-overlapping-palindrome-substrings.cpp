@@ -1,31 +1,56 @@
+// (Using Blueprint of Palindrome Strings to conver isPalindrome check to O(1))
+//T.C : O(n^2)
+//S.C : O(n^3)
 class Solution {
 public:
-    bool ispalin(string &s,int i, int j){
-        while(i<j){
-            if(s[i]!=s[j]) return false;
-            i++;
-            j--;
-        }
-        return true;
-    }
-    int maxPalindromes(string s, int k) {    
-        int n=s.size();
-        if(k==1) return n;  
-        vector<vector<int>>dp(n+1,vector<int>(n+1));
+    vector<vector<bool>> isPalindrome;
 
-        for(int i=n-1;i>=0;i--){
-            for(int j=n-1;j>=0;j--){
-                if(ispalin(s,i,j)){
-                    int take=1+ ((j+k<=n)?dp[j+1][j+k]:0);
-                    int grow=dp[i][j+1];
-                    int slide=dp[i+1][j+1];
-                    dp[i][j]=max({slide,grow,take});
+    //max non-overlapping palindromic pieces (length >= k) from s[i..j]
+    int solve(const string& s, int k, int i, int j, vector<vector<int>>& t) {
+        int n = s.size();
+        if (i >= n || j >= n) 
+            return 0;
+            
+        if (t[i][j] != -1) 
+            return t[i][j];
+
+        if (isPalindrome[i][j]) { //O(1)
+            int growWindow  = solve(s, k, i, j + 1, t);
+            int takeIt      = 1 + solve(s, k, j + 1, j + k, t);
+            int slideWindow = solve(s, k, i + 1, j + 1, t);
+
+            return t[i][j] = max({growWindow, takeIt, slideWindow});
+        }
+
+        int slideWindow = solve(s, k, i + 1, j + 1, t);
+        int growWindow  = solve(s, k, i, j + 1, t);
+
+        return t[i][j] = max(slideWindow, growWindow);
+    }
+
+    int maxPalindromes(string s, int k) {
+        int n = s.size();
+        if (k == 1)
+            return n; //each character can be a substring
+
+        isPalindrome.assign(n+1, vector<bool>(n+1));
+        //Palindromic substring Blueprint
+        for(int L = 1; L <= n; L++) {
+            for(int i = 0; i+L <= n; i++) {
+                int j = i + L - 1;
+
+                if(i == j) {
+                    isPalindrome[i][i] = true; //Single characters are palindrome
+                } else if(i+1 == j) {
+                    isPalindrome[i][j] = (s[i] == s[j]); //Strings of 2 Length
+                } else {
+                    isPalindrome[i][j] = ((s[i] == s[j]) && isPalindrome[i+1][j-1] == true);
                 }
-                int grow=dp[i][j+1];
-                int slide=dp[i+1][j+1];
-                dp[i][j]=max({dp[i][j],slide,grow});
             }
         }
-        return dp[0][k-1];
+
+        vector<vector<int>> t(n, vector<int>(n, -1));
+
+        return solve(s, k, 0, k - 1, t);
     }
 };
