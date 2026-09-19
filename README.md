@@ -359,6 +359,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1563-stone-game-v) |
@@ -567,6 +568,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0836-rectangle-overlap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quickselect
 |  |
 | ------- |
