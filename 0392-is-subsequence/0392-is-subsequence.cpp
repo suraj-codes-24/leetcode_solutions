@@ -6,12 +6,11 @@ public:
 
         bool a=false,b=false;
         if(s[i]==t[j]){
-           a= solve(s,t,i+1,j+1);
+           return solve(s,t,i+1,j+1);
         }
         else{
-            b= solve(s,t,i,j+1);
+            return solve(s,t,i,j+1);
         }
-        return a||b;
     }
     bool isSubsequence(string s, string t) {
         return solve(s,t,0,0);
