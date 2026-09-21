@@ -84,6 +84,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1053-previous-permutation-with-one-swap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -156,6 +157,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
+| [1048-longest-string-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -201,6 +203,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -277,6 +280,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
@@ -311,6 +315,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0443-string-compression) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1048-longest-string-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -415,6 +420,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
+| [1048-longest-string-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 | [1207-unique-number-of-occurrences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
