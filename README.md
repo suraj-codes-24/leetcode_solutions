@@ -93,6 +93,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [1390-four-divisors](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -360,6 +361,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1390-four-divisors](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1510-stone-game-iv) |
@@ -792,4 +794,12 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
