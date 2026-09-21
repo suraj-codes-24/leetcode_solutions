@@ -144,6 +144,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
@@ -256,6 +257,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
