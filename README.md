@@ -74,6 +74,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0605-can-place-flowers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -151,6 +152,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0486-predict-the-winner](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
+| [0646-maximum-length-of-pair-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
@@ -194,6 +196,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0502-ipo](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -466,6 +469,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0502-ipo](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [1053-previous-permutation-with-one-swap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -824,4 +828,8 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
