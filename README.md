@@ -121,6 +121,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -175,6 +176,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2370-longest-ideal-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2370-longest-ideal-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -859,4 +861,12 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Knapsack Problem
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
