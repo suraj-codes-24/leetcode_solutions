@@ -168,6 +168,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1140-stone-game-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1510-stone-game-iv) |
@@ -247,6 +248,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -529,6 +531,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0979-distribute-coins-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
@@ -562,6 +565,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0979-distribute-coins-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Backtracking
@@ -841,6 +845,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Prime Factorization
 |  |
 | ------- |
