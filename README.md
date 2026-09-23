@@ -103,6 +103,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1563-stone-game-v](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1642-furthest-building-you-can-reach](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1642-furthest-building-you-can-reach) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1834-single-threaded-cpu](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1834-single-threaded-cpu) |
@@ -430,6 +431,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1331-rank-transform-of-an-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -452,6 +454,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0480-sliding-window-median](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0480-sliding-window-median) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bucket Sort
@@ -527,6 +530,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -580,6 +584,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1352-product-of-the-last-k-numbers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
