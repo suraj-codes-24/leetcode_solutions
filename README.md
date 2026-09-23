@@ -171,6 +171,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1563-stone-game-v](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [2370-longest-ideal-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2370-longest-ideal-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -295,6 +296,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1927-sum-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2370-longest-ideal-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2370-longest-ideal-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -439,6 +441,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1679-max-number-of-k-sum-pairs](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2370-longest-ideal-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2370-longest-ideal-subsequence) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
