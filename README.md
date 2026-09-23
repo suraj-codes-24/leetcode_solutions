@@ -154,6 +154,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
@@ -282,6 +283,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0072-edit-distance](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
@@ -580,6 +582,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0078-subsets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
