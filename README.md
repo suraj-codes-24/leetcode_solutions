@@ -242,6 +242,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0437-path-sum-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0655-print-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -533,6 +534,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0437-path-sum-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0655-print-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -666,6 +668,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Stack
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
