@@ -20,22 +20,15 @@ public:
 
 class Solution {
 public:
+    int dfs(Node* root){
+        int maxm=0;
+        for(auto child:root->children){
+            maxm=max(maxm,dfs(child));
+        }
+        return 1+maxm;
+    }
     int maxDepth(Node* root) {
         if(!root) return 0;
-        queue<Node*>q;
-        q.push(root);
-        int dept=0;
-        while(!q.empty()){
-            int size=q.size();
-            while(size--){
-                auto temp=q.front();
-                q.pop();
-                for(auto x:temp->children){
-                   q.push(x);
-                }
-            }
-            dept++;
-        }
-        return dept;
+        return dfs(root);
     }
 };
