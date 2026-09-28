@@ -131,6 +131,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -183,6 +184,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -198,6 +200,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
