@@ -12,6 +12,7 @@ public:
             if(!visited[i]){
                 queue<int>q;
                 q.push(i);
+                visited[i]=true;
                 while(!q.empty()){
                     auto node=q.front();
                     q.pop();
