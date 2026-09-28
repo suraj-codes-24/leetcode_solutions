@@ -1,33 +1,54 @@
 class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
-        vector<int>visited(n,false);
-        vector<vector<int>>adj(n);
-        for(auto c:connections){
-            adj[c[0]].push_back(c[1]);
-            adj[c[1]].push_back(c[0]);
-        }
-        int components=0;
-        for(int i=0;i<n;i++){
-            if(!visited[i]){
-                queue<int>q;
-                q.push(i);
-                visited[i]=true;
-                while(!q.empty()){
-                    auto node=q.front();
-                    q.pop();
 
-                    for(auto neb:adj[node]){
-                        if(!visited[neb]){
-                            q.push(neb);
-                            visited[neb]=true;
-                        }
+        // We need at least n-1 cables to connect n computers
+        if(connections.size() < n - 1)
+            return -1;
+
+        // Build adjacency list
+        vector<vector<int>> adj(n);
+
+        for(auto edge : connections) {
+            int u = edge[0];
+            int v = edge[1];
+
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+
+        vector<bool> visited(n, false);
+
+        int components = 0;
+
+        // Count connected components using BFS
+        for(int i = 0; i < n; i++) {
+
+            if(visited[i])
+                continue;
+
+            components++;
+
+            queue<int> q;
+            q.push(i);
+            visited[i] = true;
+
+            while(!q.empty()) {
+
+                int node = q.front();
+                q.pop();
+
+                for(int neighbour : adj[node]) {
+
+                    if(!visited[neighbour]) {
+                        visited[neighbour] = true;
+                        q.push(neighbour);
                     }
                 }
-                components++;
             }
         }
-        if(n-1<=connections.size()) return components-1;
-        else return -1;
+
+        // To connect C components, we need C-1 operations
+        return components - 1;
     }
 };
