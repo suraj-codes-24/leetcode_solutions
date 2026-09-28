@@ -101,6 +101,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1390-four-divisors](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1463-cherry-pickup-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -176,6 +177,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1463-cherry-pickup-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1563-stone-game-v) |
@@ -202,6 +204,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1277-count-square-submatrices-with-all-ones](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
