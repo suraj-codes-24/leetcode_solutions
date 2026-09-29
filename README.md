@@ -120,6 +120,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2542-maximum-subsequence-score) |
@@ -183,6 +184,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1563-stone-game-v](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2370-longest-ideal-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2370-longest-ideal-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -206,6 +208,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1463-cherry-pickup-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -882,6 +885,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## DP on Trees
 |  |
 | ------- |
