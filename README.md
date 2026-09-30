@@ -161,6 +161,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0005-longest-palindromic-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0368-largest-divisible-subset) |
@@ -310,6 +311,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0022-generate-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
