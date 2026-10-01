@@ -57,6 +57,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0040-combination-sum-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0090-subsets-ii) |
@@ -621,6 +622,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0040-combination-sum-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0079-word-search) |
@@ -930,4 +932,8 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
