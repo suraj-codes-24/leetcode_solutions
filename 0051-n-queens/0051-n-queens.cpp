@@ -1,42 +1,22 @@
 class Solution {
 public:
-    bool canplace(int r, int c,int n, vector<vector<bool>>& placed){
-        for(int i=0;i<r;i++){
-            if(placed[i][c]) return false;
-            for(int j=0;j<n;j++){
-                if(placed[i][j] && abs(i-r)==abs(j-c))
-                    return false;
-            }
+    void placequeen(vector<vector<string>>& ans,vector<string>& tans,int& n,vector<bool>& ld,vector<bool>& rd,vector<bool>& col,int i){
+        if(i==n){
+            ans.push_back(tans);
+            return;
         }
-
-        return true;
-    }
-    void dfs(int row,int n,vector<vector<string>>& answer,
-             vector<vector<bool>>& placed,vector<string>& current) {
-                if(row==n){
-                    answer.push_back(current);
-                    return;
-                }
-                
-                    for(int j=0;j<n;j++){
-                        if(canplace(row,j,n,placed)){
-                            current[row][j]='Q';
-                            placed[row][j]=true;
-                            dfs(row+1,n,answer,placed,current);
-                            current[row][j]='.';
-                            placed[row][j]=false;
-                        }
-                    }
-                
+        for(int j=0;j<n;j++){
+            if(col[j] || ld[n-1+i-j] || rd[i+j]) continue;
+            col[j]=true,ld[n-1+i-j]=true,rd[i+j]=true,tans[i][j]='Q';
+            placequeen(ans,tans,n,ld,rd,col,i+1);
+            col[j]=false,ld[n-1+i-j]=false,rd[i+j]=false,tans[i][j]='.';
+        }
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<bool>> placed(n,vector<bool>(n,false));
-        vector<vector<string>> answer;
-        vector<string> current(n,string(n,'.'));
-
-        dfs(0,n,answer,placed,current);
-
-        return answer;
+        vector<vector<string>> ans;
+        vector<string> tans(n,string(n,'.'));
+        vector<bool> ld(2*n-1,false),rd(2*n-1,false),col(n,false);
+        placequeen(ans,tans,n,ld,rd,col,0);
+        return ans;
     }
-
 };
