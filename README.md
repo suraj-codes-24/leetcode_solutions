@@ -279,6 +279,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -296,6 +297,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -303,6 +305,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -642,6 +645,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
