@@ -270,6 +270,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0590-n-ary-tree-postorder-traversal](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0655-print-binary-tree) |
+| [0684-redundant-connection](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
 | [0872-leaf-similar-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0872-leaf-similar-trees) |
@@ -293,6 +294,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0655-print-binary-tree) |
+| [0684-redundant-connection](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
@@ -307,6 +309,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0990-satisfiability-of-equality-equations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -649,6 +652,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
