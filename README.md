@@ -82,6 +82,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0724-find-pivot-index](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0835-image-overlap](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0835-image-overlap) |
+| [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
@@ -268,6 +269,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0617-merge-two-binary-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0655-print-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
 | [0872-leaf-similar-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -638,6 +640,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -938,4 +941,12 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0051-n-queens](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0052-n-queens-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
