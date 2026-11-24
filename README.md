@@ -85,6 +85,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0990-satisfiability-of-equality-equations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1046-last-stone-weight) |
@@ -306,6 +307,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0990-satisfiability-of-equality-equations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -334,6 +336,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -648,6 +651,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0547-number-of-provinces](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
+| [0990-satisfiability-of-equality-equations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
