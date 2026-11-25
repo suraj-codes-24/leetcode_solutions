@@ -350,6 +350,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0767-reorganize-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1048-longest-string-chain](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1079-letter-tile-possibilities](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
@@ -541,6 +542,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0480-sliding-window-median](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0480-sliding-window-median) |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -623,6 +625,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0450-delete-node-in-a-bst](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -997,6 +1000,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2261-k-divisible-elements-subarrays) |
@@ -1011,6 +1015,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2261-k-divisible-elements-subarrays) |
@@ -1020,6 +1025,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -1028,9 +1034,19 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Suffix Array
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
