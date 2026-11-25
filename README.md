@@ -368,6 +368,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1927-sum-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1927-sum-game) |
+| [2156-find-substring-with-given-hash-value](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2156-find-substring-with-given-hash-value) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2370-longest-ideal-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2370-longest-ideal-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -546,6 +547,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2156-find-substring-with-given-hash-value](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2156-find-substring-with-given-hash-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bucket Sort
@@ -1003,6 +1005,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2156-find-substring-with-given-hash-value](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2156-find-substring-with-given-hash-value) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
@@ -1018,6 +1021,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2156-find-substring-with-given-hash-value](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2156-find-substring-with-given-hash-value) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
