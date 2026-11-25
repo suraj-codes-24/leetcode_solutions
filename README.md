@@ -134,6 +134,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -369,6 +370,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -692,6 +694,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -982,15 +985,18 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
