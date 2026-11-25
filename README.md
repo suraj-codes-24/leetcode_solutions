@@ -338,6 +338,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0131-palindrome-partitioning](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0443-string-compression) |
@@ -495,6 +496,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0409-longest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0447-number-of-boomerangs](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -533,6 +535,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0480-sliding-window-median](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0480-sliding-window-median) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -715,6 +718,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0078-subsets](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0526-beautiful-arrangement](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0996-number-of-squareful-arrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0996-number-of-squareful-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -984,6 +988,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
@@ -995,12 +1000,14 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -1010,4 +1017,8 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
