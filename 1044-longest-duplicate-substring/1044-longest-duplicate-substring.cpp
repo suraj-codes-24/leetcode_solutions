@@ -1,3 +1,8 @@
+struct PairHash {
+    size_t operator()(const pair<long long,long long>& p) const {
+        return hash<long long>()(p.first) ^ (hash<long long>()(p.second) << 1);
+    }
+};
 class Solution {
 public:
     const int base1 = 29, base2=37;
@@ -9,7 +14,7 @@ public:
     int n;
 
     bool check(int len){
-        set<pair<long long,long long>>st;
+        unordered_set<pair<long long,long long>, PairHash> st;
         for(int l=0;l+len<=n;l++){
             int r=l+len;
             long long key1=((hash1[r]-(hash1[l]*power1[len])%MOD1)+MOD1)%MOD1;
