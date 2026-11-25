@@ -354,6 +354,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1143-longest-common-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1405-longest-happy-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1405-longest-happy-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -974,4 +975,24 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0851-loud-and-rich) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
