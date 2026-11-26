@@ -372,6 +372,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1927-sum-game](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1927-sum-game) |
 | [2156-find-substring-with-given-hash-value](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2156-find-substring-with-given-hash-value) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2370-longest-ideal-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2370-longest-ideal-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -637,6 +638,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -1014,6 +1016,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2156-find-substring-with-given-hash-value](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2156-find-substring-with-given-hash-value) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
@@ -1022,6 +1025,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | ------- |
 | [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
@@ -1032,6 +1036,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2156-find-substring-with-given-hash-value](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2156-find-substring-with-given-hash-value) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2261-k-divisible-elements-subarrays](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
@@ -1042,15 +1047,18 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Suffix Array
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Boyer–Moore String-Search Algorithm
 |  |
