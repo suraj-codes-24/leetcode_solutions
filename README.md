@@ -340,6 +340,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [0151-reverse-words-in-a-string](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0443-string-compression) |
@@ -973,6 +974,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -1007,6 +1009,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1017,12 +1020,14 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1034,11 +1039,13 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Suffix Array
 |  |
