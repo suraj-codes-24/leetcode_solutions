@@ -162,6 +162,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [3903-smallest-stable-index-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [3524-find-x-value-of-array-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -606,6 +608,7 @@ Check the `logs/history.log` file for a detailed record of processed submissions
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj-codes-24/leetcode_solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
